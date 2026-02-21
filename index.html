@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LeadGen Pro - Premium Tech Leads</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            color: #fff;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+        }
+        .container {
+            max-width: 600px;
+            text-align: center;
+        }
+        h1 {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        .tagline {
+            font-size: 1.2rem;
+            color: #a0a0a0;
+            margin-bottom: 2rem;
+        }
+        .features {
+            background: rgba(255,255,255,0.05);
+            border-radius: 16px;
+            padding: 2rem;
+            margin: 2rem 0;
+            text-align: left;
+        }
+        .features h3 {
+            margin-bottom: 1rem;
+            color: #667eea;
+        }
+        .features ul {
+            list-style: none;
+        }
+        .features li {
+            padding: 0.5rem 0;
+            padding-left: 1.5rem;
+            position: relative;
+        }
+        .features li::before {
+            content: "✓";
+            position: absolute;
+            left: 0;
+            color: #00d9ff;
+        }
+        .pricing {
+            font-size: 2.5rem;
+            margin: 2rem 0;
+            color: #00d9ff;
+        }
+        .pay-button {
+            background: linear-gradient(135deg, #9945ff 0%, #14f195 100%);
+            border: none;
+            border-radius: 12px;
+            padding: 1rem 3rem;
+            font-size: 1.2rem;
+            color: #fff;
+            cursor: pointer;
+            transition: transform 0.2s, box-shadow 0.2s;
+            text-decoration: none;
+            display: inline-block;
+            margin: 1rem;
+        }
+        .pay-button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 30px rgba(153, 69, 255, 0.4);
+        }
+        .crypto-note {
+            margin-top: 1rem;
+            font-size: 0.9rem;
+            color: #888;
+        }
+        .wallet {
+            font-family: monospace;
+            background: rgba(255,255,255,0.1);
+            padding: 0.5rem 1rem;
+            border-radius: 8px;
+            font-size: 0.85rem;
+            word-break: break-all;
+            margin-top: 1rem;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>LeadGen Pro</h1>
+        <p class="tagline">Fresh tech leads delivered daily. Curated from top startup blogs & product launches.</p>
+        
+        <div class="features">
+            <h3>What You Get:</h3>
+            <ul>
+                <li>50+ verified tech leads per week</li>
+                <li>Contact info & company details</li>
+                <li>Fresh from Product Hunt, HN, TechCrunch</li>
+                <li>Organized in Notion database</li>
+                <li>Crypto & traditional payment accepted</li>
+            </ul>
+        </div>
+        
+        <div class="pricing">$100 <small>/month</small></div>
+        
+        <a href="solana:CLnSrXVP9mF8VbanJdr7m5ZsCiDbB3wyjZBMEH9P292u?amount=100&reference=leadgen-sub&memo=LeadGenMonthly" 
+           class="pay-button">
+            Pay with Solana
+        </a>
+        
+        <p class="crypto-note">Instant access after payment confirmation</p>
+        <div class="wallet">Wallet: CLnSrXVP9mF8VbanJdr7m5ZsCiDbB3wyjZBMEH9P292u</div>
+    </div>
+</body>
+</html>
