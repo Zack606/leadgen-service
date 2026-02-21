@@ -1,0 +1,20 @@
+{
+  "notion": {
+    "database_id": "30ec826d-55a4-816d-a9e0-e690ad092d60",
+    "page_id": "30ec826d55a480b1937afb66429615d5"
+  },
+  "email": {
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "sender": "themindsetformula@gmail.com",
+    "password": "deraiotzqedtihth"
+  },
+  "solana": {
+    "address": "CLnSrXVP9mF8VbanJdr7m5ZsCiDbB3wyjZBMEH9P292u",
+    "network": "mainnet"
+  },
+  "pricing": {
+    "lead_package_price_sol": 0.5,
+    "lead_package_count": 50
+  }
+}

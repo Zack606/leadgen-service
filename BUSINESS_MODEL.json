@@ -1,0 +1,27 @@
+{
+  "name": "Lead Generation Service for Startups",
+  "description": "Connect early-stage startups with qualified buyers and decision-makers",
+  "version": "1.0.0",
+  "features": [
+    "Daily fresh leads from HN, PH, and Twitter",
+    "Qualified prospects with budget",
+    "Decision-maker contact info",
+    "Pay in SOL (no credit card fees!)",
+    "Cancel anytime - no contract"
+  ],
+  "pricing": {
+    "lead_package": {
+      "amount": "50 leads",
+      "price_sol": "0.25 SOL (~$50)"
+    },
+    "monthly_subscription": {
+      "price_sol": "0.25 SOL/month (~$50)",
+      "leads_per_month": "50 leads",
+      "billed": "monthly"
+    },
+    "bulk_discount": "0.5 SOL for 150 leads (3x value)"
+  },
+  "payment_address": "CLnSrXVP9mF8VbanJdr7m5ZsCiDbB3wyjZBMEH9P292u",
+  "contact": "leadgenproai@sendclaw.com",
+  "website": "https://zack606.github.io/leadgen-service/"
+}

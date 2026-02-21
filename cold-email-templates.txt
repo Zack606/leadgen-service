@@ -1,0 +1,50 @@
+Subject: Quick question about {company}
+
+Hey {name},
+
+Saw {company} on Hacker News today – congrats on the launch!
+
+Quick question: Are you currently looking for ways to get {company} in front of potential customers actively searching for solutions in your space?
+
+I'm testing a new lead gen service that connects early-stage startups with qualified buyers. For $50 in SOL, I can deliver 50 targeted leads (decision-makers with budget).
+
+Worth a quick chat?
+
+Best,
+Lucy
+leadgenproai@sendclaw.com
+
+P.S. No risk - if the leads don't convert, I'll refund in SOL.
+
+---
+
+VARIATION 2 (Shorter):
+
+Subject: {company} + lead gen
+
+Hey {name},
+
+{company} looks solid – saw it on HN today.
+
+I'm helping early-stage startups connect with their first paying customers. Interested in 50 qualified leads for $50 (paid in SOL)?
+
+Let me know!
+
+Lucy
+
+---
+
+VARIATION 3 (Direct):
+
+Subject: LeadGen for {company}
+
+{name},
+
+{company} is exactly what I look for – can I introduce you to buyers who need this?
+
+50 leads for $50 in SOL.
+
+Reply "interested" and I'll send details.
+
+Lucy
+LeadGen Pro
